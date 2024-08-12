@@ -1,0 +1,60 @@
+{
+  "pizzas": [
+    {
+      "id": "1",
+      "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Pepperoni Pizza",
+      "price": "250/-",
+      "description": "Amazing Pepperoni Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+      "custom": "Can be customized"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1049620/pexels-photo-1049620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Veg Load Pizza",
+      "price": 279,
+      "description": "Amazing Veg Load Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+      "custom": "Can be customized",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "image": "https://images.pexels.com/photos/845812/pexels-photo-845812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Egg Pizza",
+      "price": "300/-",
+      "description": "Amazing Egg Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+      "custom": "Can be customized"
+    },
+    {
+      "id": "4",
+      "image": "https://images.pexels.com/photos/12645186/pexels-photo-12645186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Eggplant Pizza",
+      "price": "300/-",
+      "description": "Amazing Eggplant Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+      "custom": "Can be customized"
+    },
+    {
+      "id": "5",
+      "image": "https://images.pexels.com/photos/12261065/pexels-photo-12261065.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "name": "Mushroom Pizza",
+      "price": "250/-",
+      "description": "Amazing Mushroom Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+      "custom": "Cannot be customized"
+    },
+    {
+      "id": "6",
+      "image": "https://images.pexels.com/photos/12046657/pexels-photo-12046657.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Mixed Veg/Non-Veg Pizza",
+      "price": "290/-",
+      "description": "Amazing Mixed Veg/Non-Veg Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+      "custom": "Can be customized(according to variety of veggie/meat)"
+    },
+    {
+      "id": "8",
+      "image": "https://images.pexels.com/photos/6493111/pexels-photo-6493111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Cheesy Corn Pizza",
+      "price": "250/-",
+      "description": "Amazing Cheesy Corn Pizza made at a wooden oven to enhance the natural taste of the ingredient used. Topped with hand-picked parsley and basil leafs.",
+      "custom": "Can be customized"
+    }
+  ]
+}
